@@ -1,0 +1,21 @@
+{
+  "name": "custom-snippets",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Use custom Snippets stored online in your XML Project.",
+  "keywords": [],
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "dependencies": {},
+  "author":"Jérôme Hadorn",
+  "repository": "https://github.com/atom/custom-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

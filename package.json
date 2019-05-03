@@ -1,7 +1,7 @@
 {
   "name": "custom-snippets",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Use custom Snippets stored online in your XML or HTML Project.",
   "keywords": [],
   "providedServices": {
@@ -12,7 +12,7 @@
     }
   },
   "dependencies": {},
-  "author":"Jérôme Hadorn",
+  "author": "Jérôme Hadorn",
   "repository": "https://github.com/jeromehadorn/custom-snippets",
   "license": "MIT",
   "engines": {

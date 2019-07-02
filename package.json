@@ -11,7 +11,9 @@
       }
     }
   },
-  "dependencies": {},
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
   "author": "Jérôme Hadorn",
   "repository": "https://github.com/jeromehadorn/custom-snippets",
   "license": "MIT",

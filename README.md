@@ -2,7 +2,7 @@
 
 This package helps to use custom Snippets in an ```XML``` or ```HTML```  file.
 
-Opposed to the local Snippets feature of Atom wit this package you can link to a ```.json``` File on the Internet.
+Opposed to the local Snippets feature of Atom with this package you can link to a ```.json``` File on the Internet.
 
 ## Json File Structure
 ```
